@@ -1,0 +1,4 @@
+#Mon Jul 18 09:47:02 GMT-03:00 2022
+base.0=C\:\\SRC\\flutter_lovepeople\\app_pokedex_atv3\\app_pokedex\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
